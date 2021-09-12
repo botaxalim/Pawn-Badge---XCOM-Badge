@@ -218,7 +218,7 @@ Commandos are distinctive in that they specialize in unconventional assault on h
 	<RR_PawnBadge.BadgeDef>
 		<defName>xcom2medievalwarrior</defName>
 		<label>Warrior</label>
-		<description>Warriors rely on stout hearts, brute strength, and melee weapons to subdue their enemies and protect their allies. They generally disdain long-range warfare, preferring instead to charge directly into the fray swinging their weapon of choice. </description>
+		<description>Warriors rely on stout hearts, brute strength, and melee weapons to subdue their enemies and protect their allies. They generally disdain long-range warfare, preferring instead to charge directly into the fray swinging their weapon of choice.</description>
 		<icon>PawnBadge/medieval-warrior</icon>
 	</RR_PawnBadge.BadgeDef>
 	
